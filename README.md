@@ -15,7 +15,7 @@ This project is your gateway to making your Flutter app accessible to a global a
 
 🚀 Getting Started
 Clone the repository:
-git clone https://github.com/yourusername/flutter-localization-example.git
+git clone https://github.com/SachinChoudhary07/easy-Localization.git
 Install dependencies:
 flutter pub get
 Run the app on your emulator or device:
